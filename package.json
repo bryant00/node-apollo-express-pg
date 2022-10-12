@@ -30,7 +30,7 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
-    "apollo-server": "^2.2.3",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.2.3",
     "apollo-server-lambda": "^2.9.5",
     "authy": "^1.4.0",
