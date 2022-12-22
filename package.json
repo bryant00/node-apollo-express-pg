@@ -43,7 +43,7 @@
     "graphql": "^14.5.8",
     "graphql-iso-date": "^3.6.1",
     "graphql-resolvers": "^0.3.3",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "^1.9.1",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
